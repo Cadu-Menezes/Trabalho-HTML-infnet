@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background: #6C7A89;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+img{
+
+    width: 30%;
+    height: 500px;
+}
+
+p{
+    margin-left: 30px;
+}
+
+h1{
+    text-align: center;
+}
